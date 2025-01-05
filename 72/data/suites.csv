@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","7897","Check search","chromium","Sat Jan 04 00:16:02 GMT 2025","passed","Sat Jan 04 00:16:10 GMT 2025","","search.spec.ts","",""
+"","9582","Check search","chromium","Sun Jan 05 00:17:55 GMT 2025","passed","Sun Jan 05 00:18:05 GMT 2025","","search.spec.ts","",""
